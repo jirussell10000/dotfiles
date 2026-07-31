@@ -2,6 +2,7 @@
 
 # Description: Displays the user, and amount of files in the dotfiles directory.
 
+
 echo "User: $USER"
 echo "File count: $(ls $HOME/dotfiles | wc -l)"
 echo "Date: $(date)"
