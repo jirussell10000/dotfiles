@@ -9,7 +9,7 @@ set modelines=0
 set number
 
 "line numbers relative to the cursor location
-set relativenumber
+"set relativenumber
 set encoding=utf-8
 set wrap
 

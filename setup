@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Description: Link dotfiles to home directory
+# Description: Link dotfile preferences to home directory
 
 
 echo "Creating .config directory if it does not exist..."
