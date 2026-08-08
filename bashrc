@@ -118,3 +118,5 @@ export PATH="$HOME/raven/.local/bin:$PATH"
 
 # starship
 eval "$(starship init bash)"
+
+eval "$(ssh-agent -s)"
